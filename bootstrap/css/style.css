@@ -9,6 +9,9 @@ h1{
 .card{
     background-color: #B2B4B5;
 }
+.card-body{
+    background-color: #B2B4B5;
+}
 .card-body p{
     color: #212529;
 }
