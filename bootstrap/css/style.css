@@ -1,0 +1,23 @@
+body{
+    background-color: #212529;
+}
+h1{
+    font-family: 'Cinzel', serif;
+    font-weight: 600;
+    color: white;
+}
+.card-body{
+    background-color: #B2B4B5;
+}
+.card-body p{
+    color: #212529;
+}
+.card-img-top{
+    background-color: #B2B4B5;
+}
+button a{
+    color: white;
+}
+button a{
+    color: white;
+}
